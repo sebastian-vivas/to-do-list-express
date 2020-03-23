@@ -1,4 +1,6 @@
-![To Do list]()
+#To Do List
+
+![](public/to_do_list_screenShot.png)
 
 ## Installation
 
